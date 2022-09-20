@@ -1,0 +1,12 @@
+.country{
+    background-color: darkorchid;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+
+}
+
+.country img{
+    width: 200px;
+}
