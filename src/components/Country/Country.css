@@ -10,3 +10,6 @@
 .country img{
     width: 200px;
 }
+.country p{
+    margin: 5px 0px;
+}
